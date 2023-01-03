@@ -1,0 +1,43 @@
+RED TEAM:
+
+ESCALAÇÃO DE PRIVILÉGIOS
+· BloodHound: https://github.com/BloodHoundAD/BloodHound
+· BeRoot: https://github.com/AlessandroZ/BeRoot
+
+PHISHING
+· Gophish: https://getgophish.com
+· King Phisher: https://github.com/rsmusllp/king-phisher
+· EvilURL: https://github.com/UndeadSec/EvilURL
+
+COMANDO E CONTROL
+· Empire Project: https://github.com/EmpireProject/Empire
+· Pupy: https://github.com/n1nj4sec/pupy
+· Cobalt Strike: https://www.cobaltstrike.com/
+
+OSINT
+· Maltego: https://www.maltego.com
+· Spiderfoot: https://www.spiderfoot.net
+· Estrutura OSINT: https://osintframework.com
+
+RECONHECIMENTO
+· Nmap: https://nmap.org
+·sqlmap: https://sqlmap.org
+· OpenVAS: https://www.openvas.org
+· Nikto: https://github.com/sullo/nikto
+· Shodan: https://www.shodan.io
+·Crt.sh: https://crt.sh
+· RustScan: https://github.com/RustScan/RustScan
+· Amass: https://github.com/OWASP/Amass
+
+EXFILTRATION
+· SharpExfiltrate: https://github.com/Flangvik/SharpExfiltrate
+· DNSExfiltrator: https://github.com/Arno0x/DNSExfiltrator
+· Egress-Assess: https://github.com/FortyNorthSecurity/Egress-Assess
+
+DUMPING DE CREDENCIAIS
+· Mimikatz: https://github.com/gentilkiwi/mimikatz
+· Dumpert: https://github.com/outflanknl/Dumpert
+· Lazagne: https://github.com/AlessandroZ/LaZagne
+·forkatz: https://github.com/Barbarisch/forkatz
+· Pypykatz: https://github.com/skelsec/pypykatz
+·nanodump: https://github.com/helpsystems/nanodump
